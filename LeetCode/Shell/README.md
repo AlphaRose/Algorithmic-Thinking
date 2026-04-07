@@ -39,5 +39,6 @@ I believe in:
 | # | Title | Difficulty | Final Solution | One Liner |
 |---|-------|------------|----------------|-----------|
 | 192 | [Word Frequency](https://leetcode.com/problems/word-frequency/) | Medium | [WordFrequency.sh](./WordFrequency.sh) | [OLWordFrequency.sh](./OLWordFrequency.sh) |
+| 193 | [Valid Phone Number](https://leetcode.com/problems/Valid-Phone-Number/) | Easy | [ValidPhoneNumber.sh](./ValidPhoneNumber.sh) | [OLValidPhoneNumber.sh](./OLValidPhoneNumber.sh) | 
 
 > Built and maintained by Ebony Rose Martin https://thatone.dev
