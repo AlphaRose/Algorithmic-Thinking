@@ -40,3 +40,4 @@ I believe in:
 |---|-------|------------|----------------|-----------|
 | 192 | [Word Frequency](https://leetcode.com/problems/word-frequency/) | Medium | [WordFrequency.sh](./WordFrequency.sh) | [OLWordFrequency.sh](./OLWordFrequency.sh) |
 
+> Built and maintained by Ebony Rose Martin https://thatone.dev
