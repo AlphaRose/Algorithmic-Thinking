@@ -1,6 +1,6 @@
 ## LeetCode Solutions - Shell Challenges
 
-This section of the Algorithmic-Thinking repo contains my solutions to LeetCode challenges solved using shell/bash scripting.
+This section of the Algorithmic-Thinking repo contains my solutions to [LeetCode](https://leetcode.com/problemset/shell/) challenges solved using shell/bash scripting.
 
 Each solution is my final after multiple iterations to get a more streamlined and resource low code. 
 
