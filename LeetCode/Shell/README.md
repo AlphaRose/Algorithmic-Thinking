@@ -37,5 +37,6 @@ I believe in:
 ## Problems Solved
 
 | # | Title | Difficulty | Final Solution | One Liner |
-|---|-------|------------|----------|
-| 192 | [Word Frequency](https://leetcode.com/problems/word-frequency/) | Medium | [WordFrequency.sh](./WordFrequency.sh) |[OLWordFrequency.sh](./OLWordFrequency.sh)
+|---|-------|------------|----------------|-----------|
+| 192 | [Word Frequency](https://leetcode.com/problems/word-frequency/) | Medium | [WordFrequency.sh](./WordFrequency.sh) | [OLWordFrequency.sh](./OLWordFrequency.sh) |
+
