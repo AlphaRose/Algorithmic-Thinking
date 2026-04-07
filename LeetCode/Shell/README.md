@@ -11,6 +11,7 @@ I will try to remember to edit each to explain the steps for later looking back.
 ## What You'll Find Here
 
 - Shell script solutions to LeetCode problems.
+    - One liners for each if possible.
 - Clean, commented code with problem context in each file header.
 - A focus on idiomatic Unix tooling/ doing the most with the least. 
 ---
