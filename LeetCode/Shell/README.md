@@ -41,5 +41,6 @@ I believe in:
 |---|-------|------------|----------------|-----------|
 | 192 | [Word Frequency](https://leetcode.com/problems/word-frequency/) | Medium | [WordFrequency.sh](./WordFrequency.sh) | [OLWordFrequency.sh](./OLWordFrequency.sh) |
 | 193 | [Valid Phone Number](https://leetcode.com/problems/Valid-Phone-Number/) | Easy | [ValidPhoneNumber.sh](./ValidPhoneNumber.sh) | [OLValidPhoneNumber.sh](./OLValidPhoneNumber.sh) | 
-
+| 194 | [TransposeFile](https://leetcode.com/problems/Transpose-File/) | Easy | [TransposeFile.sh](./TransposeFile.sh) | [OLTransposeFile.sh](./OLTransposeFile.sh) | 
+| 195 | [TenthLine](https://leetcode.com/problems/Tenth-Line/) | Easy | [TenthLine.sh](./TenthLine.sh) | Same | TenthLine
 > Built and maintained by Ebony Rose Martin https://thatone.dev
