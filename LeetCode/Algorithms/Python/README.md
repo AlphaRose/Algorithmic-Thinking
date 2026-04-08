@@ -53,3 +53,5 @@ I believe in:
 | 8 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | Medium | [Atoi.py](./Atoi.py) | - |
 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | Easy | [PalindromeNumber.py](./PalindromeNumber.py) | - |
 | 10 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) | Hard | [RegexMatching.py](./RegexMatching.py) | - |
+
+> Built and maintained by Ebony Rose Martin https://thatone.dev
