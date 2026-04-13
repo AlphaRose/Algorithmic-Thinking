@@ -4,9 +4,8 @@ Treating coding problems as systems: documented solutions and refined approaches
 ## Structure
 
 Each fodler follows a consistent structure:
-- Site
----- Sites Structure of Problems
--------- Solution Language
+
+Site > Sites Grouping Structure > Language Used > Solution Files
 
 Each folder will also have a README that lists all of the problems in one easy to view list. 
 
