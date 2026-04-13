@@ -13,6 +13,9 @@ Each folder will also have a README that lists all of the problems in one easy t
 
 | Site | Git Repo | Languages |
 |-------|----------------|-----------|
+| [Codewars](https://codewars.com/) | [Codewars Solutions](./Codewars) | - |
+| [HackerRank](https://leetcode.com/) | [HackerRank Solutions](./HackerRank) | - |
 | [LeetCode](https://leetcode.com/) | [LeetCode Solutions](./LeetCode) | [Python](./LeetCode/Algorithms/Python), [Bash/Shell](./LeetCode/Shell) |
+| [LintCode](https://linttcode.com/) | [LintCode Solutions](./LeetCode) | - |
 
 > Built and maintained by Ebony Rose Martin https://thatone.dev
